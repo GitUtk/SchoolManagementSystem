@@ -96,14 +96,7 @@ mysql > create table teacher(ID int(20) primary key NOT NULL, Name Varchar(30) N
 
 3. **Exit**:
    - You can exit the program at any time by selecting the "Exit" option from the menu.
-
-## Contributors
-
-- [Git-Utkarsh](https://github.com/Git-Utkarsh)
-- [Ssp-coder](https://github.com/Ssp-coder)
-- [SaurabhK2608](https://github.com/SaurabhK2608)
-- [PULLAAA](https://github.com/PULLAAA)
-
+     
 
 ## Development
 If you want to contribute to this project, follow these steps:
